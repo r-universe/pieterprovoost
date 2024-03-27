@@ -1,0 +1,10 @@
+{
+  "id": 48929738,
+  "created_at": "2024-03-27T03:21:09.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["landr", "ghettoblaster", "r-dwca-writer"]
+}
